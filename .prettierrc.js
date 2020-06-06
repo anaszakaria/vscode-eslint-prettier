@@ -12,7 +12,7 @@ module.exports = {
     semi: false,
     singleQuote: true,
     tabWidth: 4,
-    trailingComma: 'es5',
+    trailingComma: 'none',
     useTabs: false,
     vueIndentScriptAndStyle: false,
 }
