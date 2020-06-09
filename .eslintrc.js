@@ -16,7 +16,6 @@ module.exports = {
         'comma-dangle': ['error', 'never'],
         'no-cond-assign': ['error', 'always'],
         'no-console': 'off',
-        'no-plusplus': 'off',
         'no-param-reassign': 'off',
         'arrow-body-style': ['error', 'as-needed'],
         'max-len': [2, { code: 120, tabWidth: 4, ignoreUrls: true }],
